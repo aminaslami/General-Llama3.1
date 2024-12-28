@@ -14,7 +14,7 @@ Download link: https://ollama.com/library/llama3.1:70b
 
 Please ignore the [_Error: model requires more system memory (42.0 GB) than is available (22.6 GiB)_]
 
-
+-----------------------------------------------------------------------------------------------------
 Llama on Huggingface - Pleaes read the doucments
 
 https://huggingface.co/meta-llama/Llama-3.1-70B
