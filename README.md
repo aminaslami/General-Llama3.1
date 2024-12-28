@@ -19,3 +19,5 @@ Llama on Huggingface - Pleaes read the doucments
 
 https://huggingface.co/meta-llama/Llama-3.1-70B
 
+![image](https://github.com/user-attachments/assets/bdd57f05-358d-4f91-b4c9-1e5d6c46ec62)
+
