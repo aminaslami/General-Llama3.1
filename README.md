@@ -19,5 +19,10 @@ Llama on Huggingface - Pleaes read the doucments
 
 https://huggingface.co/meta-llama/Llama-3.1-70B
 
+
+### How to use
+
+This repository contains two versions of Meta-Llama-3.1-70B, for use with transformers and with the original llama codebase.
+
 ![image](https://github.com/user-attachments/assets/bdd57f05-358d-4f91-b4c9-1e5d6c46ec62)
 
